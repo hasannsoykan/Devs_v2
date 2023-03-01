@@ -1,7 +1,8 @@
 # Devs_v2
-
 ### Projenin Amacı : Adayların kodlama becerilerini iş verenlerle buluşturduğumuz bir proje yazmak istiyoruz. 
-
+##
+#### ***Response - Request patterni ile***
+##
 - Req 2 : Sisteme programlama dillerine ait alt teknolojiler eklenebilmeli, silinebilmeli. güncellenebilmeli, listelenebilmelidir.
   Örneğin; Java : Spring, JSP, <br/>
            C#: WPF, ASP.NET , <br/>
